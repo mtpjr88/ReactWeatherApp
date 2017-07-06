@@ -2,15 +2,5 @@
 
 This is the companion code for the Beginner React series on the [Scotch School](https://school.scotch.io/).
 
-## Setup
+I implemented the openweathermap.com API so any zip code can be typed in and show a 7 day forecast.
 
-Clone the project, install the dependencies, and run the project.
-
-```
-git clone https://github.com/searsaw/react-weather-app.git
-cd react-weather-app
-yarn
-yarn start
-```
-
-Then open up your browser to http://localhost:8080, and you will be able to see the project.
